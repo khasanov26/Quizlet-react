@@ -1,0 +1,44 @@
+.list-word {
+  li {
+    max-width: 290px;
+    height: 70px;
+
+    background: #2e3758;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    padding: 9px 15px;
+    margin-right: 4px;
+  }
+
+  li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.star-check {
+  path {
+    fill: #fff;
+  }
+}
+
+.deleteIcon {
+  display: block;
+  margin: 0 auto;
+  width: 12px;
+  height: 15px;
+}
+
+.word {
+  display: flex;
+  justify-content: space-between;
+  &__words {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  &__icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}

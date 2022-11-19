@@ -1,0 +1,35 @@
+.test {
+  margin-top: 10px;
+  height: 65px;
+  background: #2e3758;
+  border-radius: 9px;
+  padding: 14px 15px;
+  display: flex;
+  column-gap: 10px;
+  &__icon {
+    width: 25px;
+    height: 30px;
+    align-self: center;
+    img {
+      width: 25px;
+      height: 30px;
+    }
+  }
+  &__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  &__head {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  &__desr {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}
+
+.study {
+  height: 450px;
+}

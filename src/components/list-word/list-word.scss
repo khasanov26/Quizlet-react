@@ -1,0 +1,28 @@
+.list-word {
+  margin-top: 10px;
+  height: 226px;
+  overflow-y: auto;
+}
+
+.todo-list {
+  margin-top: 12px;
+  overflow-y: auto;
+  height: 272px;
+}
+
+.list-word::-webkit-scrollbar-track {
+  background: transparent;
+  width: 3px;
+  border-radius: 5px;
+  margin: 8px 0;
+}
+
+.list-word::-webkit-scrollbar {
+  width: 3px;
+  background: transparent;
+}
+.list-word::-webkit-scrollbar-thumb {
+  background-color: rgb(255, 255, 255, 0.6);
+  border-radius: 3px;
+  margin-left: 5px;
+}
