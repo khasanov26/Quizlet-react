@@ -1,3 +1,16 @@
+# Quizlet-react
+This application repeats a part of the Quizlet app functionality
+
+![quizlet](https://user-images.githubusercontent.com/81286016/202874120-613e1021-70d5-4ccf-a34e-e48ddd88044f.png)
+
+### In this app you can:
+
+- test your added word knowledge
+- add new words
+- delete words
+- select only some words to learn them
+- switch between all words and selected words
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
