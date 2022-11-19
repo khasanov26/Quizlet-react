@@ -1,7 +1,7 @@
 # Quizlet-react
 This application repeats a part of the Quizlet app functionality
 
-![quizlet](https://user-images.githubusercontent.com/81286016/202874263-9efd71d1-05be-4e51-8b17-8a029e88d5c5.png)
+<img width="461" alt="quizlet" src="https://user-images.githubusercontent.com/81286016/202874356-7f70fc26-b911-4f7b-b51d-d1fae3242c9e.png">
 
 ### In this app you can:
 
